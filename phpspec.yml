@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: cop1
+        psr4_prefix: cop1
+        src_path: app
